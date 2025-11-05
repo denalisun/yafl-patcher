@@ -1,5 +1,0 @@
-# FOV Patch (80 -> 95)
-open pakchunk10-WindowsClient.pak
-goto 0xF9C09E
-rep 0x42BE0000
-close
